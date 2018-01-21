@@ -1,0 +1,200 @@
+KBL,Afghanistan
+ANU,Antigua & Barbuda
+RGL,Argentina
+EQS,Argentina
+LCE,Honduras
+HFN,Iceland
+SYD,Australia
+VIE,Austria
+NAS,Bahamas
+DAC,Bangledesh
+YVR,Canada
+MSQ,Belarus
+BZE,Belize
+OSD,Sweden
+ZRH,Switzerland
+LAX,USA
+TSA,Taiwan
+DGA,Belize
+LPB,Bolivia
+PMG,Brazil
+DRW,Australia
+REP,Cambodia
+GOV,Cameroon
+MMO,Cape Verde
+CPO,Chile
+CKG,China
+PER,Australia
+RIG,Brazil
+BWN,Brunei
+PNH,Cambodia
+HGH,China
+CNS,Australia
+MFM,China
+HEX,Dominican Republic
+TUA,Ecuador
+HBE,Egypt
+GOB,Ethiopia
+CST,Fiji
+KUO,Finland
+DUS,Germany
+MAA,India
+CGK,Indonesia
+FRA,Germany
+NKG,China
+PEK,China
+HEL,Finland
+PVG,China
+MTR,Colombia
+LTT,France
+DEL,India
+DPS,Indonesia
+NCE,France
+VCE,Italy
+NRT,Japan
+BOB,French Polynesia
+MJL,Gabon
+BER,Germany
+OTU,Colombia
+MAT,Congo
+MOI,Cook Islands
+PMZ,Costa Rica
+SPU,Croatia
+AVI,Cuba
+LCA,Cyprus
+BRQ,Czech Republic
+LIN,Italy
+OKD,Japan
+CPH,Denmark
+AGB,Germany
+ATH,Greece
+RPN,Iceland
+BLR,India
+BOM,India
+OUL,Finland
+PAR,France
+JCA,France
+HAM,Germany
+CCU,India
+PLW,Indonesia
+PZB,South Africa
+PUS,South Korea
+MOW,Russia
+LED,Russia
+SUB,Indonesia
+BUZ,Iran
+GWY,Ireland
+TLV,Israel
+ROM,Italy
+OKJ,Japan
+AMM,Jordan
+MBA,Kenya
+PKZ,Laos
+HUQ,Libya
+SKP,Macedonia
+WAM,Madagascar
+PSA,Italy
+FUK,Japan
+AKX,Kazakhstan
+LAU,Kenya
+OKA,Japan
+WMA,Madagascar
+BKI,Malaysia
+TGD,Serbia
+SIN,Singapore
+VVO,Russia
+AHB,Saudi Arabia
+XSP,Singapore
+KUL,Malaysia
+NTY,South Africa
+IKT,Russia
+CNX,Thailand
+MLE,Maldives
+MZI,Mali
+MAV,Marshall Islands
+MRU,Mauritius
+MUC,Germany
+LTO,Mexico
+CMN,Morocco
+HKT,Thailand
+PEN,Malaysia
+RGN,Myanmar
+OMD,Namibia
+BHR,Nepal
+AMS,Netherlands
+TAE,South Korea
+BCN,Spain
+CHC,New Zealand
+MNL,Philippines
+KRK,Poland
+PIX,Portugal
+DOH,Qatar
+OTP,Romania
+RTM,Netherlands
+LIF,New Caledonia
+AKL,New Zealand
+ICN,South Korea
+WLG,New Zealand
+ENU,Nigeria
+BGO,Norway
+KDD,Pakistan
+NMG,Panama
+AZB,Papua New Guinea
+CUZ,Peru
+CEB,Philippines
+IAS,Romania
+BRS,United Kingdom
+OSL,Norway
+KHI,Pakistan
+GWD,Pakistan
+EDI,United Kingdom
+CPT,South Africa
+USM,Thailand
+NTT,Tonga
+ASR,Turkey
+IST,Turkey
+ULU,Uganda
+KBP,Ukraine
+AUH,United Arab Emirates
+PBJ,Vanuatu
+CZE,Venezuela
+HAN,Vietnam
+GLA,United Kingdom
+SEA,USA
+BOS,USA
+LHR,United Kingdom
+GMP,South Korea
+JCU,Spain
+CMB,Sri Lanka
+UYL,Sudan
+STO,Sweden
+TNN,Taiwan
+ADL,Australia
+NAP,Italy
+OSA,Japan
+CTS,Japan
+DXB,United Arab Emirates
+NCL,United Kingdom
+BHK,Uzbekistan
+LNB,Vanuatu
+KIX,Japan
+BNE,Australia
+IOA,Greece
+JGR,Greenland
+GJA,Honduras
+MEL,Australia
+TTT,Taiwan
+BKK,Thailand
+LPL,United Kingdom
+SGN,Vietnam
+APW,Western Samoa
+AXK,Yemen
+LVI,Zambia
+GUM,USA
+MAD,Spain
+JFK,USA
+YYZ,Canada
+LAS,USA
+MAN,United Kingdom
+NHA,Vietnam
+SFO,USA

@@ -1,0 +1,10 @@
+airline:KE
+deal ends:2017 Mar 30
+ICN,2017 Feb 16 to 2017 Apr 20,HKD 2500,quota 5
+#
+deal ends:2017 Apr 26
+JFK,2017 Jan 9 to 2017 May 5,HKD 5600,quota 5
+SFO,2017 Jan 9 to 2017 May 10,HKD 4720,quota 8
+SEA,2017 Jan 9 to 2017 May 10,HKD 4720,quota 5
+ICN,2017 Feb 16 to 2017 Apr 20,HKD 2500,quota 15
+#

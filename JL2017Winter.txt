@@ -1,0 +1,19 @@
+airline:JL
+deal ends:2017 Oct 30
+OSA,2017 Sep 16 to 2017 Nov 20,HKD 4500,quota 10
+KIX,2017 Sep 16 to 2017 Nov 20,HKD 4500,quota 10
+NRT,2017 Sep 16 to 2017 Nov 20,HKD 5300,quota 10
+#
+deal ends:2017 Nov 30
+OSA,2017 Nov 21 to 2017 Dec 20,HKD 5500,quota 10
+KIX,2017 Nov 21 to 2017 Dec 20,HKD 5500,quota 10
+NRT,2017 Nov 21 to 2017 Dec 20,HKD 6400,quota 10
+FUK,2017 Nov 21 to 2017 Dec 20,HKD 6400,quota 10
+#
+deal ends:2017 Dec 30
+OSA,2017 Dec 21 to 2018 Jan 5,HKD 6000,quota 10
+KIX,2017 Dec 21 to 2018 Jan 5,HKD 6000,quota 10
+NRT,2017 Dec 21 to 2018 Jan 5,HKD 6500,quota 15
+FUK,2017 Dec 21 to 2018 Jan 5,HKD 6500,quota 15
+OKJ,2017 Dec 21 to 2018 Jan 5,HKD 6000,quota 10
+#
